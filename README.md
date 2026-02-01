@@ -1,5 +1,53 @@
-# 💫 About Me:
-Hi there 👋 I'm Saurab<br>.NET Developer | API Builder | Backend Enthusiast<br><br>About Me:<br>I’m a Full Stack .NET Developer who loves building secure, real-world applications using ASP.NET Core and Web API. I enjoy writing clean code, solving backend puzzles, and turning complex problems into simple solutions.<br><br>I’m currently working on:<br><br>Building secure & scalable ASP.NET Core APIs<br><br>Mini real-world backend projects to sharpen skills<br><br>Learning advanced API design & authentication<br><br>Improving deployment and cloud skills<br><br>I’m looking to collaborate on:<br><br>.NET / ASP.NET Core based backend projects<br><br>Projects involving JWT auth & role-based access<br><br>Anything to improve real-world application architecture<br><br>Open-source contributions (especially backend stuff)<br><br>I’m currently learning:<br><br>Advanced ASP.NET Core internals<br><br>Clean architecture & best practices<br><br>Cloud basics (Azure & AWS)<br><br>Writing testable and maintainable code<br><br>Ask me about:<br><br>C#, ASP.NET Core, MVC & Web API<br><br>Entity Framework, LINQ & SQL<br><br>JWT Auth & role-based security<br><br>JavaScript, jQuery, AJAX<br><br>Chrome extension basics<br><br>Fun fact:<br><br>I love breaking down complex concepts into simple explanations<br><br>Debugging issues gives me weird satisfaction 😄
+# 💫 About Me
+
+Hi there 👋 I’m **Saurab**  
+💻 .NET Developer | 🔗 API Builder | 🧠 Backend Enthusiast  
+
+---
+
+### 👨‍💻 About Me
+I’m a Full Stack .NET Developer who loves building **secure, real-world applications** using **ASP.NET Core** and **Web API**.  
+I enjoy writing **clean code**, solving **backend puzzles**, and turning **complex problems into simple solutions**.
+
+---
+
+### 🔭 I’m currently working on
+✨ Building **secure & scalable ASP.NET Core APIs**  
+🧩 Creating **real-world backend mini projects** to sharpen skills  
+🔐 Learning **advanced API design & authentication**  
+☁️ Improving **deployment and cloud skills**
+
+---
+
+### 👯 I’m looking to collaborate on
+🤝 **.NET / ASP.NET Core** backend projects  
+🔑 Projects involving **JWT auth & role-based access**  
+🏗️ Anything that improves **real-world application architecture**  
+🌍 **Open-source contributions** (especially backend-focused)
+
+---
+
+### 🌱 I’m currently learning
+📘 **Advanced ASP.NET Core internals**  
+🧱 **Clean architecture & best practices**  
+☁️ **Cloud basics** (Azure & AWS)  
+🧪 Writing **testable and maintainable code**
+
+---
+
+### 💬 Ask me about
+💡 C#, ASP.NET Core, MVC & Web API  
+🗄️ Entity Framework, LINQ & SQL  
+🔐 JWT Authentication & role-based security  
+🌐 JavaScript, jQuery, AJAX  
+🧩 Chrome extension basics
+
+---
+
+### ⚡ Fun fact
+😄 I love breaking down **complex concepts into simple explanations**  
+🐞 Debugging issues gives me **weird satisfaction**
+
 
 
 ## 🌐 Socials:
